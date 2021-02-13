@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LED_IR
+D Light emitting diode
+K LED diode
+F ~
+$ENDCMP
+#
+#End Doc Library
