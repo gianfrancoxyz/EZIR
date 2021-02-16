@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name EZIR_tx)(type Legacy)(uri ${KIPRJMOD}/EZIR_tx.lib)(options "")(descr ""))
+)
